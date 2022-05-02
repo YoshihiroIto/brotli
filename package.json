@@ -1,0 +1,11 @@
+{
+  "name": "brotli",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^17.0.31"
+  }
+}
